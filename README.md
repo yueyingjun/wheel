@@ -1,2 +1,2 @@
-# -移动端轮播图fork地址
+# wheel
 # https://duyuany.github.io/touch/drag.html
